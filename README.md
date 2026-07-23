@@ -6,11 +6,6 @@ Computer Organization &amp; Architecture
 <!-- Replace with your banner image -->
 <img src="./org.png" alt="Computer Architecture and Organization Banner" width="100%"/>
 <img src="./gate.png" alt="Computer Architecture and Organization Banner" width="100%"/>
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Computer-Architecture-and-Organization?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/Computer-Architecture-and-Organization?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/Computer-Architecture-and-Organization?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/Computer-Architecture-and-Organization?style=for-the-badge)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/Computer-Architecture-and-Organization?style=for-the-badge)
 
 ### 📚 Complete Notes • VHDL Programs • ModelSim • Digital Logic • Diagrams • Practical Experiments
 
@@ -24,13 +19,6 @@ This repository contains comprehensive study materials for **Computer Architectu
 
 ---
 
-## 🖼 Repository Preview
-
-<p align="center">
-<img src="./assets/images/computer-architecture-overview.png" width="90%" alt="Computer Architecture Overview">
-</p>
-
----
 
 # 📚 Contents
 
